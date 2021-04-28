@@ -2,6 +2,6 @@ package api
 
 import "fmt"
 
-func HandleReq() {
-	fmt.Println("api - http.go Handle Request new v1.1.0")
+func HandleReqV2() {
+	fmt.Println("api - http.go Handle Request new v2.0.0")
 }
